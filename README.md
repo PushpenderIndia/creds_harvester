@@ -83,9 +83,10 @@ $ python password_stealer.py
 
 singhpushpender250@gmail.com or <a href="https://technowlogy.tk/contact-us">Contact Us</a>
 
-## Donation
+## Buy Me A Coffee
 
-- [ ] PayPal Me, Even 1 dollar of donation would be a great help :)
-- [ ] PayPal Address: <a href="https://paypal.me/anonyindia">PayPal.me/anonyindia</a>
+* Support my Open Source projects by making Donation, It really motivates me to work on more projects
+* PayPal Address: https://paypal.me/anonyindia
+* PayPal Email: `singhpushpender250@gmail.com`
 
 ## More Features Coming Soon...
