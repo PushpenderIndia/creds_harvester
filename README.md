@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/creds_harvester/blob/master/img/Creds%20Harverter.png" alt="TechNowLogger Logo" />
+  <img src="https://github.com/PushpenderIndia/creds_harvester/blob/master/img/Creds%20Harverter.png" alt="TechNowLogger Logo" />
 </p>
 
 <h1 align="center">The Creds Harverster</h1>
@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/creds_harvester/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/creds_harvester/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/creds_harvester/releases">
+  <a href="https://github.com/PushpenderIndia/creds_harvester/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/creds_harvester">
+    <a href="https://github.com/PushpenderIndia/creds_harvester">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -54,7 +54,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Technowlogy-Pushpender/creds_harvester.git
+$ git clone https://github.com/PushpenderIndia/creds_harvester.git
 
 # Go into the repository
 $ cd creds_harvester
@@ -81,12 +81,11 @@ $ python password_stealer.py
 
 ## Contact
 
-singhpushpender250@gmail.com or <a href="https://technowlogy.tk/contact-us">Contact Us</a>
+singhpushpender250@gmail.com 
 
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
 
 ## More Features Coming Soon...
