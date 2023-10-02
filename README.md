@@ -78,9 +78,3 @@ $ python password_stealer.py
 
 - [ ] Add New Password Extractor
 
-
-## Contact
-
-singhpushpender250@gmail.com 
-
-## More Features Coming Soon...
